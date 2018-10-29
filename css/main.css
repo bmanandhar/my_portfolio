@@ -6,8 +6,8 @@ header {
   font-family: fantasy;
 }
 
-nav {
-  float: right;
+body {
+  background-color: grey;
 }
 
 a {
