@@ -69,3 +69,8 @@ Main {
   margin: 25px;
   text-align: center;
 }
+
+embed {
+  width: 800px;
+  height: 2100 px;
+}
